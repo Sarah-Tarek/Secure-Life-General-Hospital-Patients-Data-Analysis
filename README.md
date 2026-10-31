@@ -61,7 +61,10 @@ The hospital recorded **1,000 patient visits** between January 2024 and December
 - **2024:** 508 visits
 - **2025:** 492 visits
 
-The hospital generated a total billed amount of **$8,053,143**.
+The hospital generated a total billed amount of **$8,053,143**. The total billed amount also decreased from 2024 to 2025.
+
+- **2024:** $4,132,465
+- **2025:** $3,920,678
 
 **November 2025** recorded:
 
@@ -126,7 +129,7 @@ Coverage is fairly balanced across all departments, ranging from 74% to 76%, wit
 
 Based on the analysis, the following recommendations can help improve the hospital's performance:
 
-1. **Monitor Patient Admissions:** Management should investigate the reasons behind the decrease in patient visits from 2024 to 2025 and take appropriate action if needed.
+1. **Monitor Patient Admissions and Billing:** Management should investigate the reasons behind the decrease in patient visits and total billed amount from 2024 to 2025 and take appropriate action if needed.
 
 2. **Improve Staff Allocation:** The General and Emergency departments have the highest numbers of patient visits. Management should review staffing levels and consider increasing staff in these departments to handle patient demand more efficiently.
 
