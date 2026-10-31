@@ -143,9 +143,9 @@ This project shows how data analysis can turn raw hospital patient data into use
 
 `README.md` — Project documentation and findings
 
-`Introductory_Picture.png` — Healthcare-themed project cover
+`Introductory_Image.png` — Healthcare-themed project cover
 
-`Dashboard.PNG` — Screenshot of the completed dashboard
+`Dashboard_Image.png` — Screenshot of the completed dashboard
 
 `Hospital_Patients_Dataset.xlsx` — Original hospital patients dataset
 
