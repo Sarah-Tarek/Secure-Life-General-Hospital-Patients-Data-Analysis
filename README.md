@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![](Introductory_Picture.png)
+![](Introductory_Image.png)
 
 Healthcare organizations need accurate data to make better decisions, improve patient care, and manage their resources effectively. This project focuses on analyzing patient records from the **Secure Life General Hospital dataset** to extract meaningful insights into patient admissions, department performance, medical billing, insurance coverage, and payment status. **Google Sheets** was used to analyze the dataset, create **Pivot Tables** to summarize the data, and build a **dashboard** to visualize the key findings in a clear and easy-to-understand way.
 
@@ -48,7 +48,7 @@ By exploring these areas, the analysis aims to highlight important trends, ident
 
 ## Visualization
 
-![Secure Life General Hospital Dashboard](Dashboard.PNG)
+![Secure Life General Hospital Dashboard](Dashboard_Image.png)
 
 The dashboard provides an overview of the hospital's operational and financial performance through **6 KPI cards** highlighting the main hospital metrics and **8 charts** covering patient admissions and demographics, department performance, billing trends, insurance coverage, and payment status. It also includes **3 slicers** to filter the data by Department, Diagnosis, and Admission Year.
 
