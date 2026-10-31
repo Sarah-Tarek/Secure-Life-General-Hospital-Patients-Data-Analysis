@@ -141,10 +141,12 @@ This project shows how data analysis can turn raw hospital patient data into use
 
 ## Project Files
 
-| File | Description |
-|---|---|
-| `README.md` | Project documentation and findings |
-| `Introductory_Picture.png` | Healthcare-themed project cover |
-| `Dashboard.PNG` | Screenshot of the completed dashboard |
-| `Hospital_Patients_Dataset.xlsx` | Original hospital patients dataset |
-| `Hospital_Patients_Data_Analysis.xlsx` | Completed Google Sheets analysis, including calculations, Pivot Tables, and the dashboard |
+`README.md` — Project documentation and findings
+
+`Introductory_Picture.png` — Healthcare-themed project cover
+
+`Dashboard.PNG` — Screenshot of the completed dashboard
+
+`Hospital_Patients_Dataset.xlsx` — Original hospital patients dataset
+
+`Hospital_Patients_Data_Analysis.xlsx` — Completed Google Sheets analysis, including calculations, Pivot Tables, and the dashboard
